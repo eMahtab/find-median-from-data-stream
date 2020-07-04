@@ -70,3 +70,6 @@ class MedianFinder {
  * double param_2 = obj.findMedian();
  */
 ```
+
+# References :
+https://www.youtube.com/watch?v=TzkPMVoIgWM
